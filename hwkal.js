@@ -9,9 +9,9 @@ const chalk = require('chalk')
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.autoavailable = false //status online (online)
-global.wlcm = []
-global.ntnsfw = []
-global.ntnsfww = []
+global.wlcm = ['6285939391878']
+global.ntnsfw = ['6285939391878']
+global.ntnsfww = ['6285939391878']
 
 //gausah di apa² in!
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -31,8 +31,8 @@ global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di ha
 global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312'] // ubah aja pake nomor lu
-global.premium = ['6281214281312'] // ubah aja pake nomor lu
+global.owner = ['6285939391878'] // ubah aja pake nomor lu
+global.premium = ['6285939391878'] // ubah aja pake nomor lu
 global.packname = 'HW MODS WA' // ubah aja
 global.ownerr = ['HW MODS WA'] // ubaha aja
 global.author = 'HW MODS WA' //ubah aja
